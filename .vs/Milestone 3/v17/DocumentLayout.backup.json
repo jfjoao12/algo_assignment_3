@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|c:\\users\\jfjoa\\source\\repos\\milestone 3\\milestone 3\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|solutionrelative:milestone 3\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|c:\\users\\jfjoa\\source\\repos\\milestone 3\\milestone 3\\pointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|solutionrelative:milestone 3\\pointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\PointTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|c:\\users\\jfjoa\\source\\repos\\milestone 3\\milestone 3\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|solutionrelative:milestone 3\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|c:\\users\\jfjoa\\source\\repos\\milestone 3\\milestone 3\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|solutionrelative:milestone 3\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|c:\\users\\jfjoa\\source\\repos\\milestone 3\\milestone 3\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|solutionrelative:milestone 3\\queuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|c:\\users\\jfjoa\\source\\repos\\milestone 3\\milestone 3\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|solutionrelative:milestone 3\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|c:\\users\\jfjoa\\source\\repos\\milestone 3\\milestone 3\\queuemazetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|solutionrelative:milestone 3\\queuemazetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\QueueMazeTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\simpleWithoutExit.maze||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\simpleWithExit.maze||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\QueueTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|c:\\users\\jfjoa\\source\\repos\\milestone 3\\milestone 3\\asssignment 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1366561-5784-42CA-ADA6-277A83B13A5D}|Milestone 3\\Asssignment 3.csproj|solutionrelative:milestone 3\\asssignment 3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointTests.cs",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\PointTests.cs",
+              "RelativeDocumentMoniker": "Milestone 3\\PointTests.cs",
+              "ToolTip": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\PointTests.cs",
+              "RelativeToolTip": "Milestone 3\\PointTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:37:58.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueueMazeTests.cs",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\QueueMazeTests.cs",
+              "RelativeDocumentMoniker": "Milestone 3\\QueueMazeTests.cs",
+              "ToolTip": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\QueueMazeTests.cs",
+              "RelativeToolTip": "Milestone 3\\QueueMazeTests.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAowGkBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:37:34.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueueTests.cs",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\QueueTests.cs",
+              "RelativeDocumentMoniker": "Milestone 3\\QueueTests.cs",
+              "ToolTip": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\QueueTests.cs",
+              "RelativeToolTip": "Milestone 3\\QueueTests.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAYwN0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:31:07.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QueueMazeTests.cs",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\QueueMazeTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Assignment3_Tests\\QueueMazeTests.cs",
+              "ToolTip": "C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\QueueMazeTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Assignment3_Tests\\QueueMazeTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:30:07.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointTests.cs",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\PointTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Assignment3_Tests\\PointTests.cs",
+              "ToolTip": "C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\PointTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Assignment3_Tests\\PointTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:30:07.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "simpleWithoutExit.maze",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\simpleWithoutExit.maze",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Assignment3_Tests\\simpleWithoutExit.maze",
+              "ToolTip": "C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\simpleWithoutExit.maze",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Assignment3_Tests\\simpleWithoutExit.maze",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T05:30:07.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "simpleWithExit.maze",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\simpleWithExit.maze",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Assignment3_Tests\\simpleWithExit.maze",
+              "ToolTip": "C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\simpleWithExit.maze",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Assignment3_Tests\\simpleWithExit.maze",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-23T05:30:07.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QueueTests.cs",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\QueueTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Assignment3_Tests\\QueueTests.cs",
+              "ToolTip": "C:\\Users\\jfjoa\\Downloads\\Assignment3_Tests\\QueueTests.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Assignment3_Tests\\QueueTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:30:07.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\Queue.cs",
+              "RelativeDocumentMoniker": "Milestone 3\\Queue.cs",
+              "ToolTip": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\Queue.cs",
+              "RelativeToolTip": "Milestone 3\\Queue.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:27:31.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Asssignment 3.csproj",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\Asssignment 3.csproj",
+              "RelativeDocumentMoniker": "Milestone 3\\Asssignment 3.csproj",
+              "ToolTip": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\Asssignment 3.csproj",
+              "RelativeToolTip": "Milestone 3\\Asssignment 3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T03:41:10.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\Node.cs",
+              "RelativeDocumentMoniker": "Milestone 3\\Node.cs",
+              "ToolTip": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\Node.cs",
+              "RelativeToolTip": "Milestone 3\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:40:46.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\Stack.cs",
+              "RelativeDocumentMoniker": "Milestone 3\\Stack.cs",
+              "ToolTip": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\Stack.cs",
+              "RelativeToolTip": "Milestone 3\\Stack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:38:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\Point.cs",
+              "RelativeDocumentMoniker": "Milestone 3\\Point.cs",
+              "ToolTip": "C:\\Users\\jfjoa\\source\\repos\\Milestone 3\\Milestone 3\\Point.cs",
+              "RelativeToolTip": "Milestone 3\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T01:51:20.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
